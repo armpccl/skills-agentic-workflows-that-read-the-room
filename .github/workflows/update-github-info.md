@@ -2,7 +2,7 @@
 name: update-github-info
 description: Draft website updates for Mona's GitHub Info site from official GitHub sources.
 engine: copilot
-model: gpt-5
+model: gpt-5.4
 'on':
   workflow_dispatch:
   schedule:
